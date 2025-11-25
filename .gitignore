@@ -3,7 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-config.json
+# Ignore config.
+appsettings.json
 
 # User-specific files
 *.rsuser
